@@ -1,6 +1,8 @@
 # EXIFtoKMZ
 Python script created for my DFS-510 Course at Champlain College. Just a simple script to take a folder of images and create a KMZ file from the EXIF metadata. The KMZ file could assist in visualizing and creating a timeline from the images.
 
+![Screenshot of EXIFtoKMZ Output](https://github.com/ogmini/EXIFtoKMZ/raw/main/Screenshot.PNG)
+
 ## Requirements
 - Python 3.x
 - exif 1.3.5 (https://pypi.org/project/exif/)
